@@ -1,2 +1,2 @@
-# blood-center
-FSW Final Project repo
+# blood-center-frontend
+FSW Final Project Frontend repo
