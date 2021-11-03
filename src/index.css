@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#mainNav {
+  background-color: #F47174;
+}
+
+aside {
+  background-color: #F47174;
+  padding-top: 3em;
+  padding-bottom: 2em;
+}
+
+.photo {
+  height: 200px;
+  width: 200px;
+}
+
+#phoneViewText {
+  margin-top: '50%';
+}
+
+.header2 {
+  background-color: #F47174;
+}
