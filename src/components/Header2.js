@@ -20,7 +20,7 @@ const Header2 = () => {
                         <div className="mb-5 mb-lg-0 text-left text-lg-left">
                             <h1 className="display-5 lh-1 mb-3">Filter all the</h1>
                             <h1 className="display-5 lh-1 mb-3">available blood requests</h1>
-                            <h1 className="display-4 lh-1 mb-3">on <span className="text-white">blood type</span> or <span className="text-white">city</span></h1>
+                            <h1 className="display-4 lh-1 mb-3">on <span className="text-white">Blood type</span> or <span className="text-white">City</span></h1>
                         </div>
                     </div>
                 </div>
