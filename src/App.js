@@ -20,7 +20,6 @@ function App() {
             <Header3 />
             <Header4 />
             <Header5 />
-            <Bottom />
             <Download />
             <Footer />
         </div>

@@ -13,14 +13,14 @@ const NavBar = () => {
                         <li className="nav-item"><a className="nav-link me-lg-3" href="#requests">Blood Requests</a></li>
                         <li className="nav-item"><a className="nav-link me-lg-3" href="#new">New request</a></li>
                         <li className="nav-item"><a className="nav-link me-lg-3" href="#follow-up">Follow up</a></li>
-                        <li className="nav-item"><a className="nav-link me-lg-3" href="#download">Download</a></li>
+                        <li className="nav-item"><a className="nav-link me-lg-3" href="#profile">Profile</a></li>
                     </ul>
-                    <button className="btn btn-primary rounded-pill px-3 mb-2 mb-lg-0" data-bs-toggle="modal" data-bs-target="#feedbackModal">
+                    {/* <button className="btn btn-primary rounded-pill px-3 mb-2 mb-lg-0" data-bs-toggle="modal" data-bs-target="#feedbackModal">
                         <span className="d-flex align-items-center">
                             <i className="bi-chat-text-fill me-2"></i>
                             <span className="small">Send Feedback</span>
                         </span> 
-                    </button>
+                    </button> */}
                 </div>
             </div>
         </nav>

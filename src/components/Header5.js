@@ -3,7 +3,7 @@ import profile from '../img/profile.gif'
 
 const Header5 = () => {
     return (
-        <header className="masthead" id="follow-up">
+        <header className="masthead" id="profile">
             <div className="container">
                 <div className="row gx-5 align-items-center">
                     <div className="col-lg-6">

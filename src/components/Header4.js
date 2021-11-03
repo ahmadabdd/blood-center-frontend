@@ -2,7 +2,7 @@ import main from '../img/requests.gif'
 
 const Header4 = () => {
     return (
-        <header className="header2" id='requests'>
+        <header className="header2" id="follow-up">
             <div className="container">
                 <div className="row gx-5 align-items-center">
                     <div className="col-lg-6 p-5">

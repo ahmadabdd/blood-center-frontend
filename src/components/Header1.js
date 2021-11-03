@@ -3,7 +3,7 @@ import bc1 from '../img/map.gif'
 
 const Header1 = () => {
     return (
-        <header className="masthead">
+        <header className="masthead" id="page-top">
             <div className="container px-5">
                 <div className="row gx-5 align-items-center">
                     <div className="col-lg-6">
