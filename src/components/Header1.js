@@ -10,6 +10,7 @@ const Header1 = () => {
                         <div className="mb-5 mb-lg-0 text-center text-lg-center">
                             <h1 className="display-5 lh-1 mb-3">Welcome to</h1>
                             <h1 className="display-4 lh-1 mb-3">Blood Center App!</h1>
+                            <h1 className="display-4 lh-1 mb-3">Ready to <span className="primary">save lives</span>?</h1>
                             <p className="lead fw-normal text-muted mb-5">
                                 Your place to save lives and help people find blood as easy and fast as possible
                             </p>

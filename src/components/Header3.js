@@ -3,8 +3,8 @@ import notification from '../img/push.jpg'
 
 const Header3 = () => {
     return (
-        <header className="masthead">
-            <div className="container px-5">
+        <header className="masthead" id='new'>
+            <div className="container">
                 <div className="row gx-5 align-items-center">
                     <div className="col-lg-4">
                         <div className="mb-5 mb-lg-0 text-left text-lg-left">
@@ -28,7 +28,7 @@ const Header3 = () => {
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-lg-6 mt-3">
+                            <div className="col-lg-6">
                                 <div className="masthead-device-mockup">
                                     <div className="device-wrapper">
                                         <div className="device" data-device="iPhoneX" data-orientation="portrait" data-color="black">

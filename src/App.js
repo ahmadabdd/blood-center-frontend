@@ -8,6 +8,8 @@ import Header3 from './components/Header3';
 import Footer from './components/Footer';
 import Download from './components/Download';
 import Bottom from './components/Bottom';
+import Header4 from './components/Header4';
+import Header5 from './components/Header5';
 
 function App() {
     return (
@@ -16,6 +18,8 @@ function App() {
             <Header1 />
             <Header2 />
             <Header3 />
+            <Header4 />
+            <Header5 />
             <Bottom />
             <Download />
             <Footer />
