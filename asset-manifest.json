@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/blood-center-frontend/static/css/main.cf50c6b3.chunk.css",
-    "main.js": "/blood-center-frontend/static/js/main.673bb330.chunk.js",
-    "main.js.map": "/blood-center-frontend/static/js/main.673bb330.chunk.js.map",
+    "main.js": "/blood-center-frontend/static/js/main.2bb545a6.chunk.js",
+    "main.js.map": "/blood-center-frontend/static/js/main.2bb545a6.chunk.js.map",
     "runtime-main.js": "/blood-center-frontend/static/js/runtime-main.9b35acdc.js",
     "runtime-main.js.map": "/blood-center-frontend/static/js/runtime-main.9b35acdc.js.map",
     "static/js/2.6374bc66.chunk.js": "/blood-center-frontend/static/js/2.6374bc66.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.9b35acdc.js",
     "static/js/2.6374bc66.chunk.js",
     "static/css/main.cf50c6b3.chunk.css",
-    "static/js/main.673bb330.chunk.js"
+    "static/js/main.2bb545a6.chunk.js"
   ]
 }
