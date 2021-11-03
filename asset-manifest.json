@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/blood-center-frontend/static/css/main.cf50c6b3.chunk.css",
+    "main.js": "/blood-center-frontend/static/js/main.673bb330.chunk.js",
+    "main.js.map": "/blood-center-frontend/static/js/main.673bb330.chunk.js.map",
+    "runtime-main.js": "/blood-center-frontend/static/js/runtime-main.9b35acdc.js",
+    "runtime-main.js.map": "/blood-center-frontend/static/js/runtime-main.9b35acdc.js.map",
+    "static/js/2.6374bc66.chunk.js": "/blood-center-frontend/static/js/2.6374bc66.chunk.js",
+    "static/js/2.6374bc66.chunk.js.map": "/blood-center-frontend/static/js/2.6374bc66.chunk.js.map",
+    "static/js/3.4058c3d8.chunk.js": "/blood-center-frontend/static/js/3.4058c3d8.chunk.js",
+    "static/js/3.4058c3d8.chunk.js.map": "/blood-center-frontend/static/js/3.4058c3d8.chunk.js.map",
+    "index.html": "/blood-center-frontend/index.html",
+    "static/css/main.cf50c6b3.chunk.css.map": "/blood-center-frontend/static/css/main.cf50c6b3.chunk.css.map",
+    "static/js/2.6374bc66.chunk.js.LICENSE.txt": "/blood-center-frontend/static/js/2.6374bc66.chunk.js.LICENSE.txt",
+    "static/media/bc.fa930bbc.jpg": "/blood-center-frontend/static/media/bc.fa930bbc.jpg",
+    "static/media/logo.6ce24c58.svg": "/blood-center-frontend/static/media/logo.6ce24c58.svg",
+    "static/media/main-filter.313ab2e9.gif": "/blood-center-frontend/static/media/main-filter.313ab2e9.gif",
+    "static/media/map.2874ad4b.gif": "/blood-center-frontend/static/media/map.2874ad4b.gif",
+    "static/media/new-request.ebae201c.gif": "/blood-center-frontend/static/media/new-request.ebae201c.gif",
+    "static/media/profile.e73f601a.gif": "/blood-center-frontend/static/media/profile.e73f601a.gif",
+    "static/media/push.2ee6af04.jpg": "/blood-center-frontend/static/media/push.2ee6af04.jpg",
+    "static/media/requests.9a5741b2.gif": "/blood-center-frontend/static/media/requests.9a5741b2.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b35acdc.js",
+    "static/js/2.6374bc66.chunk.js",
+    "static/css/main.cf50c6b3.chunk.css",
+    "static/js/main.673bb330.chunk.js"
+  ]
+}
