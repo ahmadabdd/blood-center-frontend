@@ -38,3 +38,16 @@ aside {
 .primary {
   color: #F47174;
 }
+
+#primary {
+  color: white;
+  text-decoration: none;
+}
+
+#font {
+  font-family: 'roboto';
+}
+
+.background {
+  background-color: #f8f9fa;
+}

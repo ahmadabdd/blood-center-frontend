@@ -7,12 +7,10 @@ const Header5 = () => {
             <div className="container">
                 <div className="row gx-5 align-items-center">
                     <div className="col-lg-6">
-                        <div className="mb-5 mb-lg-0 text-left text-lg-left">
-                            <h1 className="display-5 lh-1 mb-3">Keep track of <br/>your <span className="primary">Donations</span></h1>
-                            <h1 className="display-5 lh-1 mb-3">Set yourself <span className="primary">Available</span></h1>
-                            <p className="lead fw-normal text-muted mb-5">
-                                So you receive notifications when people need blood
-                            </p>
+                        <div className="mb-5 mb-lg-0 text-center text-lg-left">
+                            <h1 className="display-5 lh-1 mb-3" id='font'>Track your <span className="primary">Donations</span>,</h1>
+                            <h1 className="display-5 lh-1 mb-3" id='font'>Set yourself <span className="primary">Available</span></h1>
+                            <h1 className="display-5 lh-1 mb-3" id='font'>So you receive notifications when people need blood</h1>
                         </div>
                     </div>
                     <div className="col-lg-6">

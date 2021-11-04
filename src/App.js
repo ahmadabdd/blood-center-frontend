@@ -10,12 +10,14 @@ import Download from './components/Download';
 import Bottom from './components/Bottom';
 import Header4 from './components/Header4';
 import Header5 from './components/Header5';
+import PieChart from './components/Chart';
 
 function App() {
     return (
         <div>
             <NavBar />
             <Header1 />
+            <PieChart />
             <Header2 />
             <Header3 />
             <Header4 />

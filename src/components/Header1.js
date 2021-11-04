@@ -4,13 +4,13 @@ import bc1 from '../img/map.gif'
 const Header1 = () => {
     return (
         <header className="masthead" id="page-top">
-            <div className="container px-5">
+            <div className="container">
                 <div className="row gx-5 align-items-center">
                     <div className="col-lg-6">
                         <div className="mb-5 mb-lg-0 text-center text-lg-center">
-                            <h1 className="display-5 lh-1 mb-3">Welcome to</h1>
-                            <h1 className="display-4 lh-1 mb-3">Blood Center App!</h1>
-                            <h1 className="display-4 lh-1 mb-3">Ready to <span className="primary">save lives</span>?</h1>
+                            <h1 className="display-5 lh-1 mb-3" id='font'>Welcome to</h1>
+                            <h1 className="display-4 lh-1 mb-3" id='font'>Blood Center App!</h1>
+                            <h1 className="display-4 lh-1 mb-3" id='font'>Ready to <span className="primary">save lives</span>?</h1>
                             <p className="lead fw-normal text-muted mb-5">
                                 Your place to save lives and help people find blood as easy and fast as possible
                             </p>
