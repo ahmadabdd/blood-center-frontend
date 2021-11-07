@@ -1,19 +1,17 @@
 {
   "files": {
-    "main.css": "/blood-center-frontend/static/css/main.f1be6116.chunk.css",
-    "main.js": "/blood-center-frontend/static/js/main.a57b92fa.chunk.js",
-    "main.js.map": "/blood-center-frontend/static/js/main.a57b92fa.chunk.js.map",
-    "runtime-main.js": "/blood-center-frontend/static/js/runtime-main.7552dff3.js",
-    "runtime-main.js.map": "/blood-center-frontend/static/js/runtime-main.7552dff3.js.map",
-    "static/js/2.fff1c742.chunk.js": "/blood-center-frontend/static/js/2.fff1c742.chunk.js",
-    "static/js/2.fff1c742.chunk.js.map": "/blood-center-frontend/static/js/2.fff1c742.chunk.js.map",
-    "static/js/3.7fadfa5a.chunk.js": "/blood-center-frontend/static/js/3.7fadfa5a.chunk.js",
-    "static/js/3.7fadfa5a.chunk.js.map": "/blood-center-frontend/static/js/3.7fadfa5a.chunk.js.map",
+    "main.css": "/blood-center-frontend/static/css/main.18945b0d.chunk.css",
+    "main.js": "/blood-center-frontend/static/js/main.273342d4.chunk.js",
+    "main.js.map": "/blood-center-frontend/static/js/main.273342d4.chunk.js.map",
+    "runtime-main.js": "/blood-center-frontend/static/js/runtime-main.43686b28.js",
+    "runtime-main.js.map": "/blood-center-frontend/static/js/runtime-main.43686b28.js.map",
+    "static/js/2.8156c3ea.chunk.js": "/blood-center-frontend/static/js/2.8156c3ea.chunk.js",
+    "static/js/2.8156c3ea.chunk.js.map": "/blood-center-frontend/static/js/2.8156c3ea.chunk.js.map",
+    "static/js/3.35249443.chunk.js": "/blood-center-frontend/static/js/3.35249443.chunk.js",
+    "static/js/3.35249443.chunk.js.map": "/blood-center-frontend/static/js/3.35249443.chunk.js.map",
     "index.html": "/blood-center-frontend/index.html",
-    "static/css/main.f1be6116.chunk.css.map": "/blood-center-frontend/static/css/main.f1be6116.chunk.css.map",
-    "static/js/2.fff1c742.chunk.js.LICENSE.txt": "/blood-center-frontend/static/js/2.fff1c742.chunk.js.LICENSE.txt",
-    "static/media/bc.fa930bbc.jpg": "/blood-center-frontend/static/media/bc.fa930bbc.jpg",
-    "static/media/logo.6ce24c58.svg": "/blood-center-frontend/static/media/logo.6ce24c58.svg",
+    "static/css/main.18945b0d.chunk.css.map": "/blood-center-frontend/static/css/main.18945b0d.chunk.css.map",
+    "static/js/2.8156c3ea.chunk.js.LICENSE.txt": "/blood-center-frontend/static/js/2.8156c3ea.chunk.js.LICENSE.txt",
     "static/media/main-filter.313ab2e9.gif": "/blood-center-frontend/static/media/main-filter.313ab2e9.gif",
     "static/media/map.2874ad4b.gif": "/blood-center-frontend/static/media/map.2874ad4b.gif",
     "static/media/new-request.ebae201c.gif": "/blood-center-frontend/static/media/new-request.ebae201c.gif",
@@ -22,9 +20,9 @@
     "static/media/requests.9a5741b2.gif": "/blood-center-frontend/static/media/requests.9a5741b2.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.7552dff3.js",
-    "static/js/2.fff1c742.chunk.js",
-    "static/css/main.f1be6116.chunk.css",
-    "static/js/main.a57b92fa.chunk.js"
+    "static/js/runtime-main.43686b28.js",
+    "static/js/2.8156c3ea.chunk.js",
+    "static/css/main.18945b0d.chunk.css",
+    "static/js/main.273342d4.chunk.js"
   ]
 }
