@@ -179,8 +179,8 @@ const PieChart = () => {
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-lg-6">
-                        <div className="mb-lg-0 text-center text-lg-center">
-                            <h1 className="display-5 lh-1 mb-3" id='font'>Growing numbers</h1>
+                        <div className="mb-lg-0 text-center text-sm-start">
+                            <h1 className="display-4 lh-1 mb-3" id='font'>Growing numbers</h1>
                             <h1 className="display-4 lh-1 mb-3" id='font'>of blood requests!</h1>
                             <h1 className="display-4 lh-1 mb-3" id='font'>Saving more <span className="primary">lives</span>!</h1>
                         </div>

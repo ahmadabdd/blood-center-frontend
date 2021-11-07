@@ -7,7 +7,7 @@ const Header1 = () => {
             <div className="container">
                 <div className="row gx-5 align-items-center">
                     <div className="col-lg-6">
-                        <div className="mb-5 mb-lg-0 text-center text-lg-center">
+                        <div className="mb-5 mb-lg-0 text-center text-sm-start">
                             <h1 className="display-5 lh-1 mb-3" id='font'>Welcome to</h1>
                             <h1 className="display-4 lh-1 mb-3" id='font'>Blood Center App!</h1>
                             <h1 className="display-4 lh-1 mb-3" id='font'>Ready to <span className="primary">save lives</span>?</h1>

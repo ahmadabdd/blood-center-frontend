@@ -17,10 +17,9 @@ const Header4 = () => {
                         </div>
                     </div>
                     <div className="col-lg-6">
-                        <div className="mb-5 mb-lg-0 text-center">
-                            <h1 className="display-4 lh-1 mb-3" id='font'>Follow up your</h1>
-                            <h1 className="display-5 lh-1 mb-3" id='font'><span className="text-white">in-progress</span> requests</h1>
-                            <h1 className="display-5 lh-1 mb-3" id='font'>and check your <span className="text-white">fulfilled</span> ones too</h1>
+                        <div className="mb-5 mb-lg-0 text-center text-sm-start">
+                            <h1 className="display-3 lh-1 mb-3" id='font'>Follow up your</h1>
+                            <h1 className="display-3 lh-1 mb-3" id='font'><span className="text-white">requests</span></h1>
                             <p className="lead fw-normal text-white mb-5" id='font'>
                                 You can accept or decline the donation request after checking the donator's health record
                             </p>

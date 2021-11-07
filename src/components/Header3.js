@@ -7,11 +7,10 @@ const Header3 = () => {
             <div className="container" id='new'>
                 <div className="row gx-5 align-items-center" >
                     <div className="col-lg-4">
-                        <div className="mb-5 mb-lg-0 text-center text-lg-left">
+                        <div className="mb-5 mb-lg-0 text-center text-sm-start">
                             <h1 className="display-4 lh-1 mb-3" id='font'>Submit a<br/><span className="primary">New Request</span></h1>
-                            <h1 className="display-5 lh-1 mb-3" id='font'>for you or for a <span className="primary">loved one</span></h1>
                             <p className="lead fw-normal text-muted mb-5" id='font'>
-                                The app will send a push notification to all users with the same blood type so they can donate asap
+                                The app will notify all users with the same blood type so they can donate
                             </p>
                         </div>
                     </div>
