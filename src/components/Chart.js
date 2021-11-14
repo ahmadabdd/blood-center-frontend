@@ -34,7 +34,6 @@ const PieChart = () => {
             .then((responseJson) => {
 
                 setApos(responseJson);
-                // console.log(responseJson);
             })
             .catch((error) => {
                 console.error(error);
@@ -53,7 +52,6 @@ const PieChart = () => {
             .then((responseJson) => {
 
                 setAneg(responseJson);
-                // console.log(responseJson);
             })
             .catch((error) => {
                 console.error(error);
@@ -72,7 +70,6 @@ const PieChart = () => {
             .then((responseJson) => {
 
                 setBpos(responseJson);
-                // console.log(responseJson);
             })
             .catch((error) => {
                 console.error(error);
@@ -91,7 +88,6 @@ const PieChart = () => {
             .then((responseJson) => {
 
                 setBneg(responseJson);
-                // console.log(responseJson);
             })
             .catch((error) => {
                 console.error(error);
@@ -110,7 +106,6 @@ const PieChart = () => {
             .then((responseJson) => {
 
                 setABpos(responseJson);
-                // console.log(responseJson);
             })
             .catch((error) => {
                 console.error(error);
@@ -129,7 +124,6 @@ const PieChart = () => {
             .then((responseJson) => {
 
                 setABneg(responseJson);
-                // console.log(responseJson);
             })
             .catch((error) => {
                 console.error(error);
@@ -148,7 +142,6 @@ const PieChart = () => {
             .then((responseJson) => {
 
                 setOpos(responseJson);
-                // console.log(responseJson);
             })
             .catch((error) => {
                 console.error(error);
@@ -165,9 +158,7 @@ const PieChart = () => {
         })
             .then((response) => response.json())
             .then((responseJson) => {
-
                 setOneg(responseJson);
-                // console.log(responseJson);
             })
             .catch((error) => {
                 console.error(error);
@@ -188,8 +179,6 @@ const PieChart = () => {
                     <div className="col-lg-6">
                         <div className="mb-lg-0 text-center text-lg-center">
                             <Chart
-                                // width={'800px'}
-                                // height={'400px'}
                                 chartType="PieChart"
                                 loader={<div>Loading Chart</div>}
                                 data={[

@@ -11,7 +11,7 @@ const Header5 = () => {
                             <h1 className="display-5 lh-1 mb-3" id='font'>Track your <span className="primary">Donations</span>,</h1>
                             <h1 className="display-5 lh-1 mb-3" id='font'>Make yourself <span className="primary">Available</span></h1>
                             <p className="lead fw-normal text-muted mb-5" id='font'>
-                            So you receive notifications when people need blood
+                            So you receive notifications when people need blood of your type
                             </p>
                         </div>
                     </div>
